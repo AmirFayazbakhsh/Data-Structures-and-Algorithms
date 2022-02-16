@@ -1,6 +1,8 @@
 <?php
+	// namespace DS\Queue\Interfaces;
 
-	interface queueInterface{
+	
+	interface QueueInterface{
 
 		public function enqueue($item);
 		public function dequeue();

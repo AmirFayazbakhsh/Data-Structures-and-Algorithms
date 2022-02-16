@@ -1,9 +1,13 @@
 <?php 
 
 
-	include "queueInterface.php";
+	include "QueueInterface.php";
+	// use \DS\Queue\QueueInterface;
 
-	class queue implements queueInterface{
+
+
+
+	class queue implements QueueInterface{
 
 
 			public $limit;
