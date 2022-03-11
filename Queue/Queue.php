@@ -1,8 +1,8 @@
 <?php 
 
 
-	include "QueueInterface.php";
-	// use \DS\Queue\QueueInterface;
+include "QueueInterface.php";
+
 
 
 
