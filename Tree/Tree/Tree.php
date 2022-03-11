@@ -6,9 +6,9 @@
 
 		public $root;
 
-		function __construct(TreeNode $root){
+		function __construct(TreeNode $rootValue){
 
-			$this->root = $root;
+			$this->root = $rootValue;
 		}
 
 
